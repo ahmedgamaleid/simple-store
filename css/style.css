@@ -39,12 +39,7 @@ display: flex;
 /* home */
 
 
-.carousel  {
-height: 100%;
-overflow: hidden;
 
-
-}
 .overlay {
   position: absolute;
   top: 0;
